@@ -1,0 +1,25 @@
+#navbar{
+background-color: rgb(14, 13, 13);
+height: 60px; 
+}
+#logo{
+  color: yellow;
+  font-size: 25px;
+}
+button{
+  background-color: goldenrod;
+}
+*{
+  margin:0px;
+  padding: 0;
+  color: azure;
+}
+a{
+  margin-right: 200px;
+}
+#image{
+  background-color: rgb(110, 39, 39);
+  height: 60px; 
+  }
+
+ 
